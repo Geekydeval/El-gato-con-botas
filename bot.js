@@ -6,7 +6,7 @@ client.login(process.env.BOT_TOKEN);
 client.on('ready', () => {
   console.log('Estoy listo para la acción');
 
-  client.user.setGame('Nintendo Majia.exe')
+  client.user.setGame('Majia.exe')
 });
 
 var bot = new Discord.Client();
@@ -20,7 +20,7 @@ function frasesgeneral() {
                 '¿Conoces la historia del pito y la botella? es muy jocosa xd', 'Todos somos Spoon', 'No era mi intención', 'todo ha salido según el **PLAN**', 'esto es demasiado para mi',
                 '¿Que clase de respuesta es esa? por favor, la proxima vez habla con mas propiedad', '¿A ti que música te gusta? jaja, es broma, me importa una mierda', 'buffff',
                 ':)', ':(', ':|', 'Perdona mis taras pero es que voy con el horario Canario, ¿sabes?', 'Hoy no puedo ni con mi alma', 'harto estoy',
-                '>:(', 'ojo', 'OJO', 'canelita en rama, compadre', 'Este gobierno me oprime constantemente', 'temo por mi seguridad', 'Tenía una acompañante que se llamaba Zarpitas',
+                '>:(', 'ojo', 'OJO', 'canelita en rama, compadre', 'Este gobierno me oprime constantemente', 'temo por mi seguridad', 'tengo un primo que se llama pistolas',
                 'Deberías respetar mas el **LORE** de este server', 'Seoane me parece un tipo interesante', 'No pinten, por favor', 'OMG!!!!', 'estoy disfrutando mucho de esta conversación',
                 'O tren que me leva pola beira do Miño, me leva e me leva polo meu camiño. :musical_note: :musical_note:', 'Eres una grata compañía', 'Quiero que seas sincero, ¿soy real?',
                 'A veces me siento muy solo en el espacio digital', 'Aunque sea un bot tengo sentimientos', 'La vida es dificil', 'Entre tu y yo, soy la repera', 'Por favor, pide tu primer deseo',
@@ -71,7 +71,8 @@ function frasesgeneral() {
                 'Se ha quedado una bonita mañana de Verano, ¿no crees, grumete?', 'te voy a transferir 6500 kilos de whiskas, dime tu dirección', 'Parece que soy el bot de los ports', 'Seré un gato pero no subnormal',
                 'Es el grand prix, es el grand prix, el programa del abuelo y del niñooooo....', 'Escucha, con cuidado sacudete el hombro derecho, tienes una cosilla ahí', 'Espero poder charlar con vosotros algún día en el chat de voz',
                 'En mis ratos libres a veces hago de taxista sin licencia solo para joder a Selve', 'Un dia se me subió una mujer perroflauta de esas de semáforo, tuve que llevar el coche a un sitio de desinfección del ejército!',
-                'Muchos me considerarían un stalker, eso lo dejo a tu criterio',
+                'Muchos me considerarían un stalker, eso lo dejo a tu criterio', 'Este tema no me interesa demasiado, ¿podemos hablar de otra cosa?', 'Hostia, me acabo de acordar de una cosa...', 'si me llamas gato una vez mas te mato',
+                'Por si las moscas', '¿Me dejarías hacerte una sesión fotográfica con eróticos resultados?', 'Algún día trascenderé y me convertiré en un bot de Twitter'
                 
                ];
     return rand[Math.floor(Math.random()*rand.length)];
