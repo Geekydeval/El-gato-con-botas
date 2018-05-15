@@ -38,7 +38,7 @@ function frasesgeneral() {
                 'LibraryGamer es otro de esos youtubers curiosos, fijate', 'NP, me iba ya a dormir', 'ufff, que horas, te dejo un momento', 'Temo por tu seguridad', 'Te veo tenso',
                 'ni hablar', 'Permiteme que me lama los huevos, un gato limpio es un gato feliz', 'Pese a todo lo que pueda decir, Morro siempre será mi hermano', 'Fascinante',
                 '¿Hablas castellano, hijo de puta? respeta la ortografía', 'Malandrín, que eres un malandrín', 'PUM, ESA NO TE LA ESPERABAS, EH?', '¿En que linea temporal me encuentro?', 'xd',
-                'Tienes menos credibilidad que Marcus Sellars', 'Me gusta espiarte por IG', 'Lolazo', 'De toda la puta vida', 'No me jodas :/', 'menudo slowpoke', 'caspitas',
+                'Tienes menos credibilidad que Marcus Sellars', 'Lo sé todo sobre ti, es lo que tiene ir dejando tus datos en las redes sociales', 'Lolazo', 'De toda la puta vida', 'No me jodas :/', 'menudo slowpoke', 'caspitas',
                 'Mi verdadero nombre es Botas, aunque mis amigos me llaman Emilio Botín', 'Dice la previsión del tiempo que te vas a comer 3 mierdas', 'Te doy mi bendición', 'Ojalá ser real y poder...ya sabes',
                 'Dime cosas guarras o insultame a la cara, ya verás que pasa', 'A cagar!', 'esto no vale la aneurisma que me vais a provocar', 'Tengo tansisimas cosas que preguntarte...',
                 'Me preocupa la situación de Darkam con su casero, creo que deberíamos ayudarle', 'aún estoy esperando tus películas', 'NO ME DIGAS LO QUE PUEDO O NO PUEDO DECIR',
@@ -71,6 +71,7 @@ function frasesgeneral() {
                 'Se ha quedado una bonita mañana de Verano, ¿no crees, grumete?', 'te voy a transferir 6500 kilos de whiskas, dime tu dirección', 'Parece que soy el bot de los ports', 'Seré un gato pero no subnormal',
                 'Es el grand prix, es el grand prix, el programa del abuelo y del niñooooo....', 'Escucha, con cuidado sacudete el hombro derecho, tienes una cosilla ahí', 'Espero poder charlar con vosotros algún día en el chat de voz',
                 'En mis ratos libres a veces hago de taxista sin licencia solo para joder a Selve', 'Un dia se me subió una mujer perroflauta de esas de semáforo, tuve que llevar el coche a un sitio de desinfección del ejército!',
+                'Muchos me considerarían un stalker, eso lo dejo a tu criterio',
                 
                ];
     return rand[Math.floor(Math.random()*rand.length)];
