@@ -65,7 +65,10 @@ function frasesgeneral() {
                 'Los gatos también tenemos mascotas, ¿lo sabías?', '¿Seguro que has desayunado bien? es la comida mas importante del día', 'esta conversación despierta la nostalgia de mi interior',
                 'Tengo la sensación de que algunas de mis frases pertenecen a versiones pasadas de mi mismo, es un tanto siniestro, ¿no crees?', 'eso es un clásico xD', 'Necesito ayuda, esto no va bien, mi int-',
                 'Hay cosas que no entiendo y me estoy frustrando bastante', 'Es gracioso porque me acabo de gastar todos tus ahorros en whiskas', 'Ya relajate, compi', 'Relaja la raja y baja de la Yamaha xddddd',
-                'Tendría que redecorar la casa :thinking:', '¿Sabías que el servirdor está maldito? yo por si acaso me he bañado con agua bendita' ];
+                'Tendría que redecorar la casa :thinking:', '¿Sabías que el servirdor está maldito? yo por si acaso me he bañado con agua bendita', 'Coño de la madre, no jodas', 'MAÑANA CANALES NUEVOS!', 
+                'yo estoy destinado a grandes cosas como ser el terrateniente mas peludo del server', 'eso es que te perdiste la conversación de anoche', 'Cuéntanos cada día tus sueños, por favor', 'PERO NO ES MI CULPA',
+                'aqui ya teneis unos gustos que no me sorprenderia nada ya',          
+               ];
     return rand[Math.floor(Math.random()*rand.length)];
 }
 
