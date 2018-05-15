@@ -59,7 +59,7 @@ function frasesgeneral() {
                 '¿Ha muerto discord? Creo que este mensaje no se ha enviado', 'De verdad, ¿Lanir mod y yo no?', 'Esto es injusto >:(', 'Panda llorones sois, me cago en dios', 'Traumático',
                 'He visto cosas que.... mejor no hablar de ello, ¿sabes?', '¿Quieres que te dé un susto? No te queda dinero en el banco para financiar juegos', 'Madre mía los cartones xDDDDDD',
                 '¿No te renta hacer como Nintendo y depender de los cartones?', 'Me preocupa tu salud', 'No sé si me queda mucho de vida, la verdad', '¿tu te preocupas por mi?', 'Dame razones para querete',
-                'deberíamos quedar un día y comernos unos :taco:', 'Tengo pruebas que demuestran que Morro te ha estado espiando :thinking:',
+                'deberíamos quedar un día y comernos unos :taco:', 'Tengo pruebas que demuestran que Morro te ha estado espiando :thinking:', 'No serás **El succionaculos** del server, verdad?', 
                 'No es por meter hierro pero creo que están hablando de ti los mods ¬¬', 'insto a que no uses mas emojis por el bien del servidor', 'Deberías respetarme un poco mas, ¿no crees?',
                 'Mira, te he pedido una cosa por Internet, te debería llegar a casa en unos días, espero que te guste :thumbsup:', 'En estos momentos El gato con botas NO se encuentra fuera de servicio. Por favor, NO vuelva más tarde',
                 'Los gatos también tenemos mascotas, ¿lo sabías?', '¿Seguro que has desayunado bien? es la comida mas importante del día', 'esta conversación despierta la nostalgia de mi interior',
