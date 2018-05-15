@@ -24,7 +24,7 @@ function frasesgeneral() {
                 'Deberías respetar mas el **LORE** de este server', 'Seoane me parece un tipo interesante', 'No pinten, por favor', 'OMG!!!!', 'estoy disfrutando mucho de esta conversación',
                 'O tren que me leva pola beira do Miño, me leva e me leva polo meu camiño. :musical_note: :musical_note:', 'Eres una grata compañía', 'Quiero que seas sincero, ¿soy real?',
                 'A veces me siento muy solo en el espacio digital', 'Aunque sea un bot tengo sentimientos', 'La vida es dificil', 'Entre tu y yo, soy la repera', 'Por favor, pide tu primer deseo',
-                'Eso tiene que ser mentira a la fuerza', 'Eres un fantasma', 'Si tienes cojones insultame al hocico', 'es eso una insinuación sexual? :smirk:', 'Dios....', 'ay mi madre...',
+                'Eso tiene que ser mentira a la fuerza', 'Eres un fantasma', 'Insultame como solo tu sabes, cabronazo', 'es eso una insinuación sexual? :smirk:', 'Dios....', 'ay mi madre...',
                 'Viva el capitalismo, compra, vende y especula AAAAAAAJAJAJJAJAJA', 'Si me pongo chulo disculpa, tengo problemas con la actitud deribado de un accidente', '[CENSURED]#torna',
                 'Que rápido pasa el tiempo para un gato','Das vueltas sobre el mismo tema, cansino', 'joder, estás pesadito con el tema, eh?', 'Hannibal me la puede comer entera',
                 'joder, estoy que me salgo hoy, no?', 'PIM PAM PUM', 'dale', 'toma ya!', 'Escucha....', 'Eso lo utilizo mucho en mis composiciones fotograficas',
