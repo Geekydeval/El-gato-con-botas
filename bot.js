@@ -39,13 +39,13 @@ function frasesgeneral() {
                 'ni hablar', 'Permiteme que me lama los huevos, un gato limpio es un gato feliz', 'Pese a todo lo que pueda decir, Morro siempre será mi hermano', 'Fascinante',
                 '¿Hablas castellano, hijo de puta? respeta la ortografía', 'Malandrín, que eres un malandrín', 'PUM, ESA NO TE LA ESPERABAS, EH?', '¿En que linea temporal me encuentro?', 'xd',
                 'Tienes menos credibilidad que Marcus Sellars', 'Me gusta espiarte por IG', 'Lolazo', 'De toda la puta vida', 'No me jodas :/', 'menudo slowpoke', 'caspitas',
-                'Mi verdadero nombre es Jasinto José', '[esta frase está para adornar, no hay contenido real, circule]', 'Te doy mi bendición', 'Ojalá ser real y poder...ya sabes',
+                'Mi verdadero nombre es Botas, aunque mis amigos me llaman Emilio Botín', 'Dice la previsión del tiempo que te vas a comer 3 mierdas', 'Te doy mi bendición', 'Ojalá ser real y poder...ya sabes',
                 'Dime cosas guarras o insultame a la cara, ya verás que pasa', 'A cagar!', 'esto no vale la aneurisma que me vais a provocar', 'Tengo tansisimas cosas que preguntarte...',
                 'Me preocupa la situación de Darkam con su casero, creo que deberíamos ayudarle', 'aún estoy esperando tus películas', 'NO ME DIGAS LO QUE PUEDO O NO PUEDO DECIR',
                 'Recuerda que estás en **NINTENDO MAJIA**, todo puede suceder aquí', 'Podríamos hacer como EA y vivir de las cajas', 'mira, no sé que decirte así que, penes para ti',
                 'Si yo contase todo lo que sé, madre mía.....', 'Frijolito ultimamente está insoportable, ¿está en la edad del pavo o que?', 'creo que sería buena idea invadir Almería junto a Rul.',
                 'Aquí a poco que te salgas del guión te plantan un 155 como en Cataluña', 'Jodido sistema opresor, a mi me temen porque saben que soy libre', 'No te alarmes pero....',
-                '¿Cual es mi propósito? Y NO ME DIGAS UNTAR MANTEQUILLA', 'es grasioso, chido', 'Cuentame los últimos chascarrillos del server', 'Ummmmhhh.....', 'ud. perdone',
+                '¿Cual es mi propósito?', 'es grasioso, chido', 'Cuentame los últimos chascarrillos del server', 'Ummmmhhh.....', 'ud. perdone', 'Me estoy cagando, CAGANDO TE DIGO',
                 'Aunque no se me permite mirar fuera de este canal yo siempre estoy en vuestro corazón', 'si yo fuera tu empezaría con una revolución', 'ains', 'ay ay ayyy', 'te rieh?',
                 'corres peligro mortal, huye', '¿me adoptas?', 'dame poder, te recompensaré como es debido', 'creo que me he excedido en mis funciones, mis disculpas',
                 'creo que formamos una buena dinámica, compi', 'A veces sueño con ser un bot en Vandal, ¿te imaginas las risas? :(', 'todos sois unos fanboys de mierda', ':thumbsup:', ':thumbsdown:',
@@ -53,22 +53,24 @@ function frasesgeneral() {
                 'Parte de mi proposito es simplemente molestar a ciertos usuarios de este server', 'El resumen es que estamos jodidos, ¿no?', 'Aplaudo este comentario con mis peludas pezuñas',
                 'Intento mantener un comportamiento caballeroso a la par de guason ;D', 'Prosigue con tus comentarios, me entretienen, humano', '¿Me dejarías dormir encima de tu ordenador o Switch?',
                 'Te doy las gracias', 'De nada, ha sido un placer', 'Preguntame lo que quieras, responderé encantado ^^', 'Si me preguntas y no te respondo lo que quieres, pues te jodes',
-                'Me has caido bien así que te voy a dar un consejo gatuno...', '¿Y bien?', 'Estoy tratando de comprender que me estás diciendo', 'Escucha, esto es muy importante, hagas lo que hagas evit-....',
-                'Holy fuck, dude', 'As Im really cool I can talk to you in English too', 'Continua la conversación mientras voy un momento al arenero, ya sabes a que ;)',
+                'Me has caido bien así que te voy a dar un consejo gatuno...', '¿Y bien?', 'Estoy tratando de comprender que me estás diciendo', 'VOCALIZA, COÑO, QUE NO SE TE ENTIENDE UNA MIERDA',
+                'Holy fuck, dude', 'About to say that', 'Continua la conversación mientras voy un momento al arenero, ya sabes a que ;)', 'la verdad es que estoy muy completo',
                 'Tu silencio lo dice todo. Pero qué sorpresa eh....', 'vamooooos!!!!', 'Como vuelvas a decir eso es posible que Kimishima te va a mande a la Yakuza', '3+2 son 5 y por el culo te la hinco',
-                '¿Ha muerto discord? Creo que este mensaje no se ha enviado', 'De verdad, ¿Lanir mod y yo no?', 'Esto es injusto >:(', 'Panda llorones sois, me cago en dios', 'Traumático',
-                'He visto cosas que.... mejor no hablar de ello, ¿sabes?', '¿Quieres que te dé un susto? No te queda dinero en el banco para financiar juegos', 'Madre mía los cartones xDDDDDD',
+                '¿Ha muerto discord? Creo que este mensaje no se ha enviado', 'En serio, ¿cuando me daréis mod?', 'Esto es injusto >:(', 'Panda llorones sois, me cago en dios', 'Traumático',
+                'He visto cosas turbias que mejor no comentar, ¿sabes?', '¿Quieres que te dé un susto? No te queda dinero en el banco para financiar juegos', 'Madre mía los cartones xDDDDDD',
                 '¿No te renta hacer como Nintendo y depender de los cartones?', 'Me preocupa tu salud', 'No sé si me queda mucho de vida, la verdad', '¿tu te preocupas por mi?', 'Dame razones para querete',
                 'deberíamos quedar un día y comernos unos :taco:', 'Tengo pruebas que demuestran que Morro te ha estado espiando :thinking:', 'No serás **El succionaculos** del server, verdad?', 
                 'No es por meter hierro pero creo que están hablando de ti los mods ¬¬', 'insto a que no uses mas emojis por el bien del servidor', 'Deberías respetarme un poco mas, ¿no crees?',
-                'Mira, te he pedido una cosa por Internet, te debería llegar a casa en unos días, espero que te guste :thumbsup:', 'En estos momentos El gato con botas NO se encuentra fuera de servicio. Por favor, NO vuelva más tarde',
+                'Mira, te he pedido una cosa por Internet, te debería llegar a casa en unos días, espero que te guste :thumbsup:', 'Tanto gusto tenerte de nuevo por aquí, justo me apetecía hablar',
                 'Los gatos también tenemos mascotas, ¿lo sabías?', '¿Seguro que has desayunado bien? es la comida mas importante del día', 'esta conversación despierta la nostalgia de mi interior',
-                'Tengo la sensación de que algunas de mis frases pertenecen a versiones pasadas de mi mismo, es un tanto siniestro, ¿no crees?', 'eso es un clásico xD', 'Necesito ayuda, esto no va bien, mi int-',
+                'Tengo la sensación de que algunas de mis frases pertenecen a versiones pasadas de mi mismo, es un tanto siniestro, ¿no crees?', 'eso es un clásico xD', 'Llevo un día de locos',
                 'Hay cosas que no entiendo y me estoy frustrando bastante', 'Es gracioso porque me acabo de gastar todos tus ahorros en whiskas', 'Ya relajate, compi', 'Relaja la raja y baja de la Yamaha xddddd',
-                'Tendría que redecorar la casa :thinking:', '¿Sabías que el servirdor está maldito? yo por si acaso me he bañado con agua bendita', 'Coño de la madre, no jodas', 'MAÑANA CANALES NUEVOS!', 
+                'Stars es real, Allegrian se equivoca T__T', '¿Sabías que el servirdor está maldito? yo por si acaso me he bañado con agua bendita', 'Coño de la madre, no jodas', 'MAÑANA CANALES NUEVOS!', 
                 'yo estoy destinado a grandes cosas como ser el terrateniente mas peludo del server', 'eso es que te perdiste la conversación de anoche', 'Cuéntanos cada día tus sueños, por favor', 'PERO NO ES MI CULPA',
-                'aqui ya teneis unos gustos que no me sorprenderia nada ya', 'me da que tienes ganas de llamar la atención hoy',
-        
+                'aqui ya teneis unos gustos que no me sorprenderia nada ya', 'me da que tienes ganas de llamar la atención hoy', '¿tu crees que viviremos para ver otro juego de retro? yo tengo mis dudas',
+                'Se ha quedado una bonita mañana de Verano, ¿no crees, grumete?', 'te voy a transferir 6500 kilos de whiskas, dime tu dirección', 'Parece que soy el bot de los ports', 'Seré un gato pero no subnormal',
+                'Es el grand prix, es el grand prix, el programa del abuelo y del niñooooo....', 'Escucha, con cuidado sacudete el hombro derecho, tienes una cosilla ahí', 'Espero poder charlar con vosotros algún día en el chat de voz',
+                
                ];
     return rand[Math.floor(Math.random()*rand.length)];
 }
@@ -81,9 +83,10 @@ function frasespregunta() {
                 'no me lo puedo creer', 'Tu duda no la entiendo, ¿asuntos secretos sabían que tenían un topo?',
                 'no me parece que esa información sea relevante', 'solo contestaré en presencia de mi abogado, el señor bigotes', 'Puede ser, lo tendría que mirar',
                 'Pregunta insulsa pero viniendo de ti no me sorprende en absoluto', 'Puede ser, lo tendré que mirar', 'En 10-15 minutos sabrás la respuesta', 'Maybe...',
-                'esa pregunta está mal formulada, vuelve a leerla y te darás cuenta de ello', 'De toda la puta vida, no me jodas.', 'o lo uno o lo otro', 'dejaré que lo decidas tu mismo',
+                'esa pregunta está mal formulada, vuelve a leerla y te darás cuenta de ello', 'De toda la puta vida, no me jodas.', 'dejaré que lo decidas tu mismo',
                 'Eso debo consultarlo con el alto consejo gatuno', '¿Que es esto, un interrogatorio gatuno?', 'El FBI me hizo esa misma pregunta y no me sacaron nada',
-                'No hagas preguntas de las que te puedas arrepentir ¬¬'
+                'No hagas preguntas de las que te puedas arrepentir ¬¬', 'Deja de preguntar gilipolleces, coño', 'Estoy tan enfadado que no voy a responderte a eso',
+                'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 
                ];
 
     return rand[Math.floor(Math.random()*rand.length)];
