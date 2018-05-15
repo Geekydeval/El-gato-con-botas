@@ -27,7 +27,7 @@ function frasesgeneral() {
                 'Eso tiene que ser mentira a la fuerza', 'Eres un fantasma', 'Si tienes cojones insultame al hocico', 'es eso una insinuación sexual? :smirk:', 'Dios....', 'ay mi madre...',
                 'Viva el capitalismo, compra, vende y especula AAAAAAAJAJAJJAJAJA', 'Si me pongo chulo disculpa, tengo problemas con la actitud deribado de un accidente', '[CENSURED]#torna',
                 'Que rápido pasa el tiempo para un gato','Das vueltas sobre el mismo tema, cansino', 'joder, estás pesadito con el tema, eh?', 'Hannibal me la puede comer entera',
-                'joder, estoy que me salgo hoy, no?', 'PIM PAM PUM', 'dale', 'toma ya!', 'Escucha....',
+                'joder, estoy que me salgo hoy, no?', 'PIM PAM PUM', 'dale', 'toma ya!', 'Escucha....', 'Eso lo utilizo mucho en mis composiciones fotograficas',
                 'No quisiera alarmarte pero creo que hay un topo entre nosotros :thinking:', 'Estoy pensando en presentarme a las elecciones de mod', 'Soy tan poderoso que me temen',
                 'La limpieza personal es parte fundamental de un felino, aunque este sea digital como yo', 'A veces tengo dudas existenciales, es parte de mi programación', 'Te contaré un secreto...',
                 'no sigas por ahí, hay cosas que están mejor guardadas', 'eso es peliagudo, chico', 'LA PUTA DE OROS >:(', 'Al tener multiples personalidades me repito porque no sé que ha dicho la anterior',
