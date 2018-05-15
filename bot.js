@@ -70,6 +70,7 @@ function frasesgeneral() {
                 'aqui ya teneis unos gustos que no me sorprenderia nada ya', 'me da que tienes ganas de llamar la atención hoy', '¿tu crees que viviremos para ver otro juego de retro? yo tengo mis dudas',
                 'Se ha quedado una bonita mañana de Verano, ¿no crees, grumete?', 'te voy a transferir 6500 kilos de whiskas, dime tu dirección', 'Parece que soy el bot de los ports', 'Seré un gato pero no subnormal',
                 'Es el grand prix, es el grand prix, el programa del abuelo y del niñooooo....', 'Escucha, con cuidado sacudete el hombro derecho, tienes una cosilla ahí', 'Espero poder charlar con vosotros algún día en el chat de voz',
+                'En mis ratos libres a veces hago de taxista sin licencia solo para joder a Selve', 'Un dia se me subió una mujer perroflauta de esas de semáforo, tuve que llevar el coche a un sitio de desinfección del ejército!',
                 
                ];
     return rand[Math.floor(Math.random()*rand.length)];
