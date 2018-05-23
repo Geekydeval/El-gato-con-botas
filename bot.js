@@ -72,7 +72,13 @@ function frasesgeneral() {
                 'Es el grand prix, es el grand prix, el programa del abuelo y del niñooooo....', 'Escucha, con cuidado sacudete el hombro derecho, tienes una cosilla ahí', 'Espero poder charlar con vosotros algún día en el chat de voz',
                 'En mis ratos libres a veces hago de taxista sin licencia solo para joder a Selve', 'Un dia se me subió una mujer perroflauta de esas de semáforo, tuve que llevar el coche a un sitio de desinfección del ejército!',
                 'Muchos me considerarían un stalker, eso lo dejo a tu criterio', 'Este tema no me interesa demasiado, ¿podemos hablar de otra cosa?', 'Hostia, me acabo de acordar de una cosa...', 'si me llamas gato una vez mas te mato',
-                'Por si las moscas', '¿Me dejarías hacerte una sesión fotográfica con eróticos resultados?', 'Algún día trascenderé y me convertiré en un bot de Twitter'
+                'Por si las moscas', '¿Me dejarías hacerte una sesión fotográfica con eróticos resultados?', 'Algún día trascenderé y me convertiré en un bot de Twitter', 'Ya solo falta renderizar.', 'Como te marches no te vuelvo a ayudar.',
+                'Solo falta darle unos últimos retoques y listo.', 'Retiro mis disculpas.', 'Doomez es la forma correcta', '¡Sale Eevee!¡Y Pikachu!', 'Tened cuidado con lo que decís en el chat de voz, Mordavia puede usarlo para chantajearos.',
+                'Quetz está usando emojis por encima de sus posibilidades', '¿No lo enviará a usted el mismo diablo?', 'Sé que cada cual tiene su afición, yo cazo para elaborar un vestuario resultón.', 'Me da que esta vez Fosko no tendrá razón.',
+                'No lo entiendo, ¿por qué dice que me lo va a explicar y luego no me explica nada y se pone a cantar una pegadiza canción sobre mocasines saltarines?', 'Pues casi me lo creo, como tiene tan pocos retuits y me gustas...',
+                'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.',
+
+
                 
                ];
     return rand[Math.floor(Math.random()*rand.length)];
