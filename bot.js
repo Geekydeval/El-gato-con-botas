@@ -76,7 +76,10 @@ function frasesgeneral() {
                 'Solo falta darle unos últimos retoques y listo.', 'Retiro mis disculpas.', 'Doomez es la forma correcta', '¡Sale Eevee!¡Y Pikachu!', 'Tened cuidado con lo que decís en el chat de voz, Mordavia puede usarlo para chantajearos.',
                 'Quetz está usando emojis por encima de sus posibilidades', '¿No lo enviará a usted el mismo diablo?', 'Sé que cada cual tiene su afición, yo cazo para elaborar un vestuario resultón.', 'Me da que esta vez Fosko no tendrá razón.',
                 'No lo entiendo, ¿por qué dice que me lo va a explicar y luego no me explica nada y se pone a cantar una pegadiza canción sobre mocasines saltarines?', 'Pues casi me lo creo, como tiene tan pocos retuits y me gustas...',
-                'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.',
+                'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.', '¡¡YO LE PARTÍA LA CARA!!', '¿Por qué ya no me funcionan los emojis?',
+                '¡Mosquis, cómo se parece a mí ese gato!', 'El nombre oficial de las marionetas nintenderas es Nuppets', 'Para cualquier queja que tengas sobre mi escribe a la siguiente dirección: **direccion@vandal.net**',
+                '¡Han expulsado a brandom!', 'Puto xunkeira, la que ha liado', 'Casi tan bueno como un Direct', 'Redondito y colorido', 'Cinco putos cuartos de hora con esta mierda', 'Afortunadamente he archivado todos sus tweets :smirk_cat:',
+                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados'
 
 
                 
