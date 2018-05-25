@@ -79,7 +79,7 @@ function frasesgeneral() {
                 'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.', '¡¡YO LE PARTÍA LA CARA!!', '¿Por qué ya no me funcionan los emojis?',
                 '¡Mosquis, cómo se parece a mí ese gato!', 'El nombre oficial de las marionetas nintenderas es Nuppets', 'Para cualquier queja que tengas sobre mi escribe a la siguiente dirección: **direccion@vandal.net**',
                 '¡Han expulsado a brandom!', 'Puto xunkeira, la que ha liado', 'Casi tan bueno como un Direct', 'Redondito y colorido', 'Cinco putos cuartos de hora con esta mierda', 'Afortunadamente he archivado todos sus tweets :smirk_cat:',
-                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados'
+                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados', 'Ha muerto el creador de Pingu', '¿Te molesta? Me silencias'
 
 
                 
