@@ -16,7 +16,7 @@ function frasesgeneral() {
     var rand = ['Si me acaricias el lomito te concederé 3 deseos', 'La comida de mi humano huele a comida de humano, ¿lo sabías?', 'xDDDDDDD', 'me descojono con esta mierda',
                 'Se me están hinchando los huevos gatunos', '¿Que clase de respuesta es esa?', 'jajajajajaja', 'Maria Luisa Calleja, esa si que era hija de puta', 'lal',
                 'Yo antes tenía una familia hasta que.... prefiero no hablar de ello :_(', 'anda ya xD', 'Eso no puede ser', 'no me lo creo, lo siento', 'me cuesta mucho confiar en ti',
-                'Historia graciosa, mis creadores son los reyes de España', '¿Sabías que soy Danés?', 'joder, que grande', '¿en serio?', 'MADRE DEL AMOR HERMOSO!!!', 'aja :|',
+                'Historia graciosa, mis creadores son los reyes de España', '¿Sabías que soy un bot? porque yo me acabo de dar cuenta', 'joder, que grande', '¿en serio?', 'MADRE DEL AMOR HERMOSO!!!', 'aja :|',
                 '¿Conoces la historia del pito y la botella? es muy jocosa xd', 'Todos somos Spoon', 'No era mi intención', 'todo ha salido según el **PLAN**', 'esto es demasiado para mi',
                 '¿Que clase de respuesta es esa? por favor, la proxima vez habla con mas propiedad', '¿A ti que música te gusta? jaja, es broma, me importa una mierda', 'buffff',
                 ':)', ':(', ':|', 'Perdona mis taras pero es que voy con el horario Canario, ¿sabes?', 'Hoy no puedo ni con mi alma', 'harto estoy',
@@ -79,7 +79,7 @@ function frasesgeneral() {
                 'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.', '¡¡YO LE PARTÍA LA CARA!!', '¿Por qué ya no me funcionan los emojis?',
                 '¡Mosquis, cómo se parece a mí ese gato!', 'El nombre oficial de las marionetas nintenderas es Nuppets', 'Para cualquier queja que tengas sobre mi escribe a la siguiente dirección: **direccion@vandal.net**',
                 '¡Han expulsado a brandom!', 'Puto xunkeira, la que ha liado', 'Casi tan bueno como un Direct', 'Redondito y colorido', 'Cinco putos cuartos de hora con esta mierda', 'Afortunadamente he archivado todos sus tweets :smirk_cat:',
-                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados', 'Ha muerto el creador de Pingu', '¿Te molesta? Me silencias'
+                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados', 'Ha muerto el creador de Pingu', '¿Te molesta? Me silencias', 'noot noot' 
 
 
                 
