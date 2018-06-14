@@ -79,7 +79,14 @@ function frasesgeneral() {
                 'Algunos dirán "es humor absurdo, no te rayes", pero el humor absurdo también tiene que tener un mínimo de sentido y en este caso no lo tiene.', '¡¡YO LE PARTÍA LA CARA!!', '¿Por qué ya no me funcionan los emojis?',
                 '¡Mosquis, cómo se parece a mí ese gato!', 'El nombre oficial de las marionetas nintenderas es Nuppets', 'Para cualquier queja que tengas sobre mi escribe a la siguiente dirección: **direccion@vandal.net**',
                 '¡Han expulsado a brandom!', 'Puto xunkeira, la que ha liado', 'Casi tan bueno como un Direct', 'Redondito y colorido', 'Cinco putos cuartos de hora con esta mierda', 'Afortunadamente he archivado todos sus tweets :smirk_cat:',
-                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados', 'Ha muerto el creador de Pingu', '¿Te molesta? Me silencias', 'noot noot' 
+                'Això és una tortura xinesa', 'Ojalá Los Aurones', 'Has pulsado tecla equivocada', 'Has aurones los cojones equivocados', 'Ha muerto el creador de Pingu', '¿Te molesta? Me silencias', 'noot noot', 
+                'sabias que la cancion de morro era el doble de larga en un principio?', 'Lo del maestro Kimishima tiene mucho merito, ese hombre ha creado un imperio de la nada.', 
+                'La gente no para de decir ‘Gabbo esto’, ‘Gabbo aquello’, no oigo a nadie decir: ‘Labo esto’, o ‘Labo aquello’', 'El doomez es intenso.', 'Tú sigues adelante por si suena la flauta, pero ya nadie te libra del ridículo.',
+                'No es moco de pavo.', '¿Qué habrá sido de Lanir? Nadie lo sabe, pero su leyenda aún se respira en el viento.', 'Veteranos y noveles, veteranos y noveles, miran siempre sus laureles con respeto y emoción.',
+                'Que quede claro, Allegrian no es gilipollas, tan solo es un poco atolondrado.', 'No traigas aquí vuestras mierdas de Twitter, tengamos la fiesta en paz.', 'Borro en 1 minuto',
+                '¿Pero que hay detras del morro que nos muestra? ¿Como es en la confianza de su intimidad? ¿Es mas de playa o de monte? ¿Espaguetis o macarrones? ¿Coca-Cola o Pepsi? Enseñanos tu lado mas humano, morro.',
+                '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).'
+
 
 
                 
