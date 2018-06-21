@@ -105,7 +105,7 @@ function frasespregunta() {
                 'esa pregunta está mal formulada, vuelve a leerla y te darás cuenta de ello', 'De toda la puta vida, no me jodas.', 'dejaré que lo decidas tu mismo',
                 'Eso debo consultarlo con el alto consejo gatuno', '¿Que es esto, un interrogatorio gatuno?', 'El FBI me hizo esa misma pregunta y no me sacaron nada',
                 'No hagas preguntas de las que te puedas arrepentir ¬¬', 'Deja de preguntar gilipolleces, coño', 'Estoy tan enfadado que no voy a responderte a eso',
-                'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones'
+                'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones', 'Ante la duda, la mas tetuda'
                ];
 
     return rand[Math.floor(Math.random()*rand.length)];
