@@ -85,7 +85,9 @@ function frasesgeneral() {
                 'No es moco de pavo.', '¿Qué habrá sido de Lanir? Nadie lo sabe, pero su leyenda aún se respira en el viento.', 'Veteranos y noveles, veteranos y noveles, miran siempre sus laureles con respeto y emoción.',
                 'Que quede claro, Allegrian no es gilipollas, tan solo es un poco atolondrado.', 'No traigas aquí vuestras mierdas de Twitter, tengamos la fiesta en paz.', 'Borro en 1 minuto',
                 '¿Pero que hay detras del morro que nos muestra? ¿Como es en la confianza de su intimidad? ¿Es mas de playa o de monte? ¿Espaguetis o macarrones? ¿Coca-Cola o Pepsi? Enseñanos tu lado mas humano, morro.',
-                '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).'
+                '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).',
+                'madre mia tengo el culo que me explota de JIPE'
+
 
 
 
