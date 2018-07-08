@@ -206,10 +206,14 @@ var insultos = ['gilipollas', 'cabrón', 'cabron', 'cabronazo', 'hijo de puta', 
 
 var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy', 'te quiero', 'te adoro', 'rabo', 'sexo', 'coito', 'horny', 'furry', 'culo', 'culito', ':kissing_heart:',
             'Te quiero']
-///////////
 
+//polls emojis
+client.on("message", (message) => {
+  if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
+    message.react('👋');
+  }
 
-//////////
+//polls text
 
 client.on("message", (message) => {
 
@@ -222,7 +226,7 @@ client.on("message", (message) => {
   }
 
   else if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
-    message.channel.send(frasessaludo()) || message.react('👋');
+    message.channel.send(frasessaludo());
   }
 
   else if (message.content.match(new RegExp(despedidas.join('|'), 'i'))) {
