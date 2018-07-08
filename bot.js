@@ -179,6 +179,12 @@ function frasesnegativas() {
   return rand[Math.floor(Math.random()*rand.length)];
 }
 
+function emojis() {
+  var rand = ['🤔', '😂', '😭', '😠'];
+
+  return rand[Math.floor(Math.random()*rand.length)];
+}
+
 //vars
 
 var saludos = ['buenos días', 'buenos dias', 'hola', 'buenas', 'a los buenos días', 'buenas tardes', 'buenas noches']
@@ -241,6 +247,6 @@ client.on("message", (message) => {
 
 client.on("message", (message) => {
 if(message.author.id == 190402725224251402) {
-    message.react('🤔');
+    message.react(emojis());
   }
 });
