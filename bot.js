@@ -185,6 +185,12 @@ function emojis() {
   return rand[Math.floor(Math.random()*rand.length)];
 }
 
+function emojiscustom() {
+  var rand = ['269116667924185088', '392259854309523456', '272094850021588993', '318479442844319744'];
+
+  return rand[Math.floor(Math.random()*rand.length)];
+}
+
 //vars
 
 var saludos = ['buenos días', 'buenos dias', 'hola', 'buenas', 'a los buenos días', 'buenas tardes', 'buenas noches']
@@ -247,6 +253,6 @@ client.on("message", (message) => {
 
 client.on("message", (message) => {
 if(message.author.id == 190402725224251402) {
-    message.react(emojis());
+    message.react(message.guild.emojis.get(emojiscustom());
   }
 });
