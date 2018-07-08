@@ -222,7 +222,7 @@ client.on("message", (message) => {
   }
 
   else if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
-    message.channel.send(frasessaludo());
+    message.channel.send(frasessaludo()) || message.react('👋');
   }
 
   else if (message.content.match(new RegExp(despedidas.join('|'), 'i'))) {
