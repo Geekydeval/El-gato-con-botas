@@ -222,7 +222,7 @@ client.on("message", (message) => {
   }
 
   else if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
-    message.channel.send(frasessaludo()) || message.react('👋');
+    message.channel.send(frasessaludo());
   }
 
   else if (message.content.match(new RegExp(despedidas.join('|'), 'i'))) {
@@ -251,4 +251,8 @@ client.on("message", (message) => {
 
 });
 
-
+client.on("message", (message) => {
+ if(message.author.id == 381834204817915904) {
+    message.react('👋');
+  }
+ });
