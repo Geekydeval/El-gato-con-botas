@@ -185,12 +185,6 @@ function emojis() {
   return rand[Math.floor(Math.random()*rand.length)];
 }
 
-function emojiscustom() {
-  var rand = ['269116667924185088', '392259854309523456', '272094850021588993', '318479442844319744'];
-
-  return rand[Math.floor(Math.random()*rand.length)];
-}
-
 //vars
 
 var saludos = ['buenos días', 'buenos dias', 'hola', 'buenas', 'a los buenos días', 'buenas tardes', 'buenas noches']
@@ -208,10 +202,7 @@ var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy',
             'Te quiero']
 
 //polls emojis
-client.on("message", (message) => {
-  if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
-    message.react('👋');
-  }
+
 
 //polls text
 
