@@ -253,6 +253,6 @@ client.on("message", (message) => {
 
 client.on("message", (message) => {
 if(message.author.id == 190402725224251402) {
-    message.react(message.guild.emojis.get('269116667924185088');
+    message.react(message.guild.emojis.get('269116667924185088'));
   }
 });
