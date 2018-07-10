@@ -233,11 +233,6 @@ client.on("message", (message) => {
     message.react('🖕');
   }
 
-  else if (message.content.match(new RegExp('^((?![a-zA-Z0-9])*)(' + sexo.join('|') + ')+((?![a-zA-Z0-9])*)$', 'gmi'))) {
-    let emoji = message.guild.emojis.find('name',"XenoPENE2");
-    message.react(emoji);
-  }
-
   else {
     message.react(emojis());
   }
