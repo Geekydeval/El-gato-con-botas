@@ -239,7 +239,7 @@ client.on("message", (message) => {
   }
 
   else {
-    message.channel.send(frasesgeneral());
+    message.react(emojis());
   }
 
 });
