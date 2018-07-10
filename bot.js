@@ -203,6 +203,15 @@ var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy',
 
 //polls emojis
 
+client.on("message", (message) => {
+  if(messsage.author.id == 190402725224251402) {
+    message.react('🇮')
+    message.react('🇩')
+    message.react('ℹ')
+    message.react('🇴')
+    message.react('🇹')
+  });
+
 //polls text
 
 client.on("message", (message) => {
