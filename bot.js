@@ -6,7 +6,7 @@ client.login(process.env.BOT_TOKEN);
 client.on('ready', () => {
   console.log('Estoy listo para la acción');
 
-  client.user.setGame('Majia.exe')
+  client.user.setGame('Soon.exe :eyes:')
 });
 
 var bot = new Discord.Client();
@@ -202,15 +202,6 @@ var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy',
             'Te quiero']
 
 //polls emojis
-
-client.on("message", (message) => {
-  if(messsage.author.id == 190402725224251402) {
-    message.react('🇮')
-    message.react('🇩')
-    message.react('ℹ')
-    message.react('🇴')
-    message.react('🇹')
-  });
 
 //polls text
 
