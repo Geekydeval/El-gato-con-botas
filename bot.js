@@ -203,6 +203,47 @@ var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy',
 
 //polls emojis
 
+client.on("message", (message) => {
+
+  if(message.author.id == 381834204817915904) {
+    return;
+  }
+
+  if (message.content.match(new RegExp('\\?', 'g'))) {
+    message.react('🤔');
+  }
+
+  else if (message.content.match(new RegExp(saludos.join('|'), 'i'))) {
+    message.react('👋');
+  }
+
+  else if (message.content.match(new RegExp(despedidas.join('|'), 'i'))) {
+    message.react('👋');
+  }
+
+  else if (message.content.match(new RegExp('^((?![a-zA-Z0-9])*)(' + afirmaciones.join('|') + ')+((?![a-zA-Z0-9])*)$', 'gmi'))) {
+    message.react('👍');
+  }
+
+  else if (message.content.match(new RegExp('^((?![a-zA-Z0-9])*)(' + negativas.join('|') + ')+((?![a-zA-Z0-9])*)$', 'gmi'))) {
+    message.react('👎');
+  }
+
+  else if (message.content.match(new RegExp(insultos.join('|'), 'i'))) {
+    message.react('🖕');
+  }
+
+  else if (message.content.match(new RegExp('^((?![a-zA-Z0-9])*)(' + sexo.join('|') + ')+((?![a-zA-Z0-9])*)$', 'gmi'))) {
+    let emoji = message.guild.emojis.find('name',"XenoPENE2");
+    message.react(emoji);
+  }
+
+  else {
+    message.channel.send(frasesgeneral());
+  }
+
+});
+
 
 //polls text
 
