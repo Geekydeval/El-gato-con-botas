@@ -205,7 +205,7 @@ var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy',
 
 client.on("message", (message) => {
   
-  if(message.content.match(new RegExp('\\cloud', 'g'))) {
+  if (message.content.includes('cloud')) {
     message.react('☁');
   }
  });
@@ -214,7 +214,7 @@ client.on("message", (message) => {
 
 client.on("message", (message) => {
 
-  if(message.author.id == 381834204817915904) {
+  if (message.author.id == 381834204817915904) {
     return;
   }
 
