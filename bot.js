@@ -6,7 +6,7 @@ client.login(process.env.BOT_TOKEN);
 client.on('ready', () => {
   console.log('Estoy listo para la acción');
 
-  client.user.setGame('Soon.exe :eyes:')
+  client.user.setGame('Soon.exe 👀')
 });
 
 var bot = new Discord.Client();
