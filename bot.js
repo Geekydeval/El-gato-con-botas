@@ -6,7 +6,7 @@ client.login(process.env.BOT_TOKEN);
 client.on('ready', () => {
   console.log('Estoy listo para la acción');
 
-  client.user.setGame('playing **TETO**')
+  client.user.setGame('cuack cuack 🦆🦆🦆')
 });
 
 var bot = new Discord.Client();
