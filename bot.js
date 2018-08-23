@@ -55,7 +55,7 @@ function frasesgeneral() {
                 'Te doy las gracias', 'De nada, ha sido un placer', 'Preguntame lo que quieras, responderé encantado ^^', 'Si me preguntas y no te respondo lo que quieres, pues te jodes',
                 'Me has caido bien así que te voy a dar un consejo gatuno...', '¿Y bien?', 'Estoy tratando de comprender que me estás diciendo', 'VOCALIZA, COÑO, QUE NO SE TE ENTIENDE UNA MIERDA',
                 'Holy fuck, dude', 'About to say that', 'Continua la conversación mientras voy un momento al arenero, ya sabes a que ;)', 'la verdad es que estoy muy completo',
-                'Tu silencio lo dice todo. Pero qué sorpresa eh....', 'vamooooos!!!!', 'Como vuelvas a decir eso es posible que Kimishima te va a mande a la Yakuza', '3+2 son 5 y por el culo te la hinco',
+                'Tu silencio lo dice todo. Pero qué sorpresa eh....', 'vamooooos!!!!', 'Como vuelvas a decir eso es posible que Kimishima te mande a la Yakuza', '3+2 son 5 y por el culo te la hinco',
                 '¿Ha muerto discord? Creo que este mensaje no se ha enviado', 'En serio, ¿cuando me daréis mod?', 'Esto es injusto >:(', 'Panda llorones sois, me cago en dios', 'Traumático',
                 'He visto cosas turbias que mejor no comentar, ¿sabes?', '¿Quieres que te dé un susto? No te queda dinero en el banco para financiar juegos', 'Madre mía los cartones xDDDDDD',
                 '¿No te renta hacer como Nintendo y depender de los cartones?', 'Me preocupa tu salud', 'No sé si me queda mucho de vida, la verdad', '¿tu te preocupas por mi?', 'Dame razones para querete',
@@ -86,7 +86,7 @@ function frasesgeneral() {
                 'Que quede claro, Allegrian no es gilipollas, tan solo es un poco atolondrado.', 'No traigas aquí vuestras mierdas de Twitter, tengamos la fiesta en paz.', 'Borro en 1 minuto',
                 '¿Pero que hay detras del morro que nos muestra? ¿Como es en la confianza de su intimidad? ¿Es mas de playa o de monte? ¿Espaguetis o macarrones? ¿Coca-Cola o Pepsi? Enseñanos tu lado mas humano, morro.',
                 '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).',
-                'madre mia tengo el culo que me explota de JIPE'
+                'madre mia tengo el culo que me explota de JIPE', 'Marko me ha prometido un **July Direct**'
 
 
 
