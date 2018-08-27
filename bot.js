@@ -87,7 +87,7 @@ function frasesgeneral() {
                 '¿Pero que hay detras del morro que nos muestra? ¿Como es en la confianza de su intimidad? ¿Es mas de playa o de monte? ¿Espaguetis o macarrones? ¿Coca-Cola o Pepsi? Enseñanos tu lado mas humano, morro.',
                 '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).',
                 'madre mia tengo el culo que me explota de JIPE', 'Marko me ha prometido un **July Direct**', 'En mi pueblo tenemos un dicho muy especial **Mas calienta tranca de barón, que diez arrobas de carbón**, bonito, ¿verdad?',
-                'Yo siempre digo **O follamos todos o la puta al rio**' 
+                'Yo siempre digo **O follamos todos o la puta al rio**', 'Mas vale buen humor que en culo un tumor, piensalo'
 
 
 
