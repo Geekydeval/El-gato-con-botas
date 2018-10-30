@@ -87,7 +87,11 @@ function frasesgeneral() {
                 '¿Pero que hay detras del morro que nos muestra? ¿Como es en la confianza de su intimidad? ¿Es mas de playa o de monte? ¿Espaguetis o macarrones? ¿Coca-Cola o Pepsi? Enseñanos tu lado mas humano, morro.',
                 '¿No os da miedo morro a veces? Aparece como un ninja cuando menos te lo esperas y suelta toda su gloriosa sabiduria que tiene almacenada en su espectacular cerebro (porque menuda memoria tiene el mamon xD) y de la que somos tan inmerecidos espectadores (o lectores, mejor dicho).',
                 'madre mia tengo el culo que me explota de JIPE', 'Marko me ha prometido un **July Direct**', 'En mi pueblo tenemos un dicho muy especial **Mas calienta tranca de barón, que diez arrobas de carbón**, bonito, ¿verdad?',
-                'Yo siempre digo **O follamos todos o la puta al rio**', 'Mas vale buen humor que en culo un tumor, piensalo'
+                'Yo siempre digo **O follamos todos o la puta al rio**', 'Mas vale buen humor que en culo un tumor, piensalo', 'Meow, bien dicho!', 'Si no lo dice la Leaky o nuestro Detective eléctrico favorito no tiene credibilidad',
+                'El breakdown de Mor no debería ser un impedimento para que volviese a ser respetado, un día tonto lo tenemos cualquiera y quien dice un día dice dos semanas', 'Meitantei markomaro terminó hasta el gorro de Canela después de dedicarle 800 horas al New Leaf.',
+                'Hyyyype', 'Mi olfato gatuno me dice que esta semana hay direct', 'Mi olfato gatuno me dice que esta semana te vas a comer una mierda porque no hay direct', 'Oye, estáis un poco pesaditos con lo de los directs, no?', 'Sobrevaloráis el hateo de Meitantei Bolsonaro a Switch.',
+                't!slots 200', 't!dailies', 'Pobre LeakyPandy, le van a crucificar por algo que nunca dijo.', 'Es cierto eso que cuentan de que LeakyPandy es en verdad Morrocotonudo, mi bro.?'
+                
 
 
 
@@ -109,7 +113,8 @@ function frasespregunta() {
                 'esa pregunta está mal formulada, vuelve a leerla y te darás cuenta de ello', 'De toda la puta vida, no me jodas.', 'dejaré que lo decidas tu mismo',
                 'Eso debo consultarlo con el alto consejo gatuno', '¿Que es esto, un interrogatorio gatuno?', 'El FBI me hizo esa misma pregunta y no me sacaron nada',
                 'No hagas preguntas de las que te puedas arrepentir ¬¬', 'Deja de preguntar gilipolleces, coño', 'Estoy tan enfadado que no voy a responderte a eso',
-                'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones', 'Ante la duda, la mas tetuda'
+                'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones', 'Ante la duda, la mas tetuda',
+                '¿Y por qué me lo preguntas a mí? Yo no soy el dueño de Nintendo Majia.'
                ];
 
     return rand[Math.floor(Math.random()*rand.length)];
