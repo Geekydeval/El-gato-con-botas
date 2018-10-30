@@ -90,7 +90,8 @@ function frasesgeneral() {
                 'Yo siempre digo **O follamos todos o la puta al rio**', 'Mas vale buen humor que en culo un tumor, piensalo', 'Meow, bien dicho!', 'Si no lo dice la Leaky o nuestro Detective eléctrico favorito no tiene credibilidad',
                 'El breakdown de Mor no debería ser un impedimento para que volviese a ser respetado, un día tonto lo tenemos cualquiera y quien dice un día dice dos semanas', 'Meitantei markomaro terminó hasta el gorro de Canela después de dedicarle 800 horas al New Leaf.',
                 'Hyyyype', 'Mi olfato gatuno me dice que esta semana hay direct', 'Mi olfato gatuno me dice que esta semana te vas a comer una mierda porque no hay direct', 'Oye, estáis un poco pesaditos con lo de los directs, no?', 'Sobrevaloráis el hateo de Meitantei Bolsonaro a Switch.',
-                't!slots 200', 't!dailies', 'Pobre LeakyPandy, le van a crucificar por algo que nunca dijo.', 'Es cierto eso que cuentan de que LeakyPandy es en verdad Morrocotonudo, mi bro.?', 'Pachamelon es cortito, pero es noble y de buen corazón, no sean crueles con él.'
+                't!slots 200', 't!dailies', 'Pobre LeakyPandy, le van a crucificar por algo que nunca dijo.', 'Es cierto eso que cuentan de que LeakyPandy es en verdad Morrocotonudo, mi bro.?', 
+                'Pachamelon es cortito, pero es noble y de buen corazón, no sean crueles con él', 'Solo lo conseguirán si el leak es real'
                 
 
 
