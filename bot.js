@@ -135,7 +135,7 @@ function insultosgato() {
               '¿Por qué no te callas?', 'Al ataqueee!', 'Como se puede tolerar eso!', 'Me parece de sinvergonzonería total', 'Por qué no nos ejecutáis y ya acabamos con esto?',
               'Voleu fer el favor de callar!?', 'pide perdón por el retraso, gracias', 'aprecio tu sinceridad pero no', 'Los escribas lo predijeron, eres subnormal', 'Esto no hay quien lo aguante',
               'Ya decía yo', 'Que tal si dejas de demostrarnos los retrasado que eres?', 'No me digas mas, te sobran 3 cromosomas', 'A ti ni agua, puto fanboy de mierda', '¿Que naciste en un hospital o en un circo?',
-              'No vales ni el tiempo que tardo en procesar esta respuesta y eso que son milesimas de segundo', 'Bokkelul,
+              'No vales ni el tiempo que tardo en procesar esta respuesta y eso que son milesimas de segundo', 'Bokkelul'
             ];
 
   return rand[Math.floor(Math.random()*rand.length)];
