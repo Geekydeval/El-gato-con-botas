@@ -92,14 +92,9 @@ function frasesgeneral() {
                 'Hyyyype', 'Mi olfato gatuno me dice que esta semana hay direct', 'Mi olfato gatuno me dice que esta semana te vas a comer una mierda porque no hay direct', 'Oye, estáis un poco pesaditos con lo de los directs, no?', 'Sobrevaloráis el hateo de Meitantei Bolsonaro a Switch.',
                 't!slots 200', 't!dailies', 'Pobre LeakyPandy, le van a crucificar por algo que nunca dijo.', 'Es cierto eso que cuentan de que LeakyPandy es en verdad Morrocotonudo, mi bro.?', 
                 'Pachamelon es cortito, pero es noble y de buen corazón, no sean crueles con él', 'Solo lo conseguirán si el leak es real', 'Eso en Alemán significa "Vagina de Ballena"', 'Eso es fake news a la fuerza, malandrín', 'Me la estáis intentando colar, que pícaros',
-                'Pero vamos a ver, ¿tu me ves a mi cara de gilipollas o que?'
-                
-
-
-
-
-
-                
+                'Te daría la razón pero es que no la tienes','Pero vamos a ver, ¿tu me ves a mi cara de gilipollas o que?', 'jaja te entiendo perfectamente xDD', 'Me siento tan identificado con lo que has dicho :sob:', 'Somos balleneros, llevamos arpones, mas como en la luna no hay ballenas cantamos canciones :musical_note:',
+                'Princesita de ojos verdes, me has robado el corazooooon :musical_note:', 'Ya me has cansado, te voy a robar las botas cuando menos te lo esperes', 'Me quito el sombrero, chapó', 'YO NO ESTOY TENSO, TÚ ESTÁS TENSO', 'Això es el casquet volador', 
+                'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 
                ];
     return rand[Math.floor(Math.random()*rand.length)];
 }
@@ -116,7 +111,9 @@ function frasespregunta() {
                 'Eso debo consultarlo con el alto consejo gatuno', '¿Que es esto, un interrogatorio gatuno?', 'El FBI me hizo esa misma pregunta y no me sacaron nada',
                 'No hagas preguntas de las que te puedas arrepentir ¬¬', 'Deja de preguntar gilipolleces, coño', 'Estoy tan enfadado que no voy a responderte a eso',
                 'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones', 'Ante la duda, la mas tetuda',
-                '¿Y por qué me lo preguntas a mí? Yo no soy el dueño de Nintendo Majia.'
+                '¿Y por qué me lo preguntas a mí? Yo no soy el dueño de Nintendo Majia.', 'Eso es correcto', 'pufff, ni idea =/', 
+                'Yo no lo sé pero a todo mal siempre puedes preguntarle a Morro, mas que un gato parece un Lince', 'Pregunta complicada, esto solo lo puedo resolver de una manera...',
+                '¿Siguiente pregunta?', '...', '¿Si? Pues me dejas de piedra',
                ];
 
     return rand[Math.floor(Math.random()*rand.length)];
@@ -136,7 +133,8 @@ function insultosgato() {
               '¿Por qué no te callas?', 'Al ataqueee!', 'Como se puede tolerar eso!', 'Me parece de sinvergonzonería total', 'Por qué no nos ejecutáis y ya acabamos con esto?',
               'Voleu fer el favor de callar!?', 'pide perdón por el retraso, gracias', 'aprecio tu sinceridad pero no', 'Los escribas lo predijeron, eres subnormal', 'Esto no hay quien lo aguante',
               'Ya decía yo', 'Que tal si dejas de demostrarnos los retrasado que eres?', 'No me digas mas, te sobran 3 cromosomas', 'A ti ni agua, puto fanboy de mierda', '¿Que naciste en un hospital o en un circo?',
-              'No vales ni el tiempo que tardo en procesar esta respuesta y eso que son milesimas de segundo', 'Bokkelul'
+              'No vales ni el tiempo que tardo en procesar esta respuesta y eso que son milesimas de segundo', 'Bokkelul', 'Enhorabuena, eres el hazmereir oficial del server, BUFÓN',
+              'Yo a veces me pregunto cual es el limite de la estupidez humana, en ese momento me acuerdo de ti', 'Te estás pasando de la raya'
             ];
 
   return rand[Math.floor(Math.random()*rand.length)];
@@ -152,7 +150,8 @@ function fraseseroticas() {
               'Comeme este rabo gatuno', 'Mira, así estoy ahora mismo https://i.imgur.com/or38Oet.jpg?1', 'O follamos todos o la puta al rio', 'Show me the booty, I want that booty ( ͡° ͜ʖ ͡°)',
               'Quisiera ser pirata, no por el oro ni la plata, sino por ese tesoro, QUE TIENES ENTRE LAS PATAS', 'El alto consejo gatuno dicta que debemos acostarnos juntos',
               'En boca cerrada no entran moscas pero entran pollas como roscas, ¿como lo ves?', 'seré tu amante bandido, BANDIDO', 'Si no te importa asaltar a una bola de pelo YO SOY TU GATO',
-              'Nuestro amor es imposible, pero podemos seguir acostandonos juntos :kissing_heart:'
+              'Nuestro amor es imposible, pero podemos seguir acostandonos juntos :kissing_heart:', 'Tu no parece que hayas visto muchos pezones en tu vida, eso se puede arreglar',
+              'Tu cabeza no dará para mucho pero tu culo...',
 
                ];
 
