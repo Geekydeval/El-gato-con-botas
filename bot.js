@@ -204,7 +204,7 @@ var afirmaciones = ['si', 'claro que si', 'por supuesto que si', 'sí', 'afirmat
 var negativas = ['no', 'claro que no', 'por supuesto que no', 'negativo', 'incorrecto']
 
 var insultos = ['gilipollas', 'cabrón', 'cabron', 'cabronazo', 'hijo de puta', 'hijo puta', 'joputa', 'subnormal', 'puta', 'putita', 'soplapollas', 'jodete', 'que te jodan', 'anormal',
-                'imbecil', 'retracas', 'capullo', 'zoquete', 'mamarracho']
+                'imbecil', 'retracas', 'capullo', 'zoquete', 'mamarracho', 'puto']
 
 var sexo = ['pene', 'polla', 'follarte', 'follaba', 'follar', 'sensual', 'sexy', 'te quiero', 'te adoro', 'rabo', 'sexo', 'coito', 'horny', 'furry', 'culo', 'culito', ':kissing_heart:',
             'Te quiero']
