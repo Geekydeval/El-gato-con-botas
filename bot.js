@@ -95,7 +95,8 @@ function frasesgeneral() {
                 'Te daría la razón pero es que no la tienes','Pero vamos a ver, ¿tu me ves a mi cara de gilipollas o que?', 'jaja te entiendo perfectamente xDD', 'Me siento tan identificado con lo que has dicho :sob:', 'Somos balleneros, llevamos arpones, mas como en la luna no hay ballenas cantamos canciones :musical_note:',
                 'Princesita de ojos verdes, me has robado el corazooooon :musical_note:', 'Ya me has cansado, te voy a robar las botas cuando menos te lo esperes', 'Me quito el sombrero, chapó', 'YO NO ESTOY TENSO, TÚ ESTÁS TENSO', 'Això es el casquet volador', 
                 'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 'Yo no digo que Vandal sea mala, no, pero Cristina puede irse a freir esparragos',
-                'Nunca pones la fuente y me estoy empezando a cabrear', 'Te ha faltado el contexto', '¿Y la fuente?'
+                'Nunca pones la fuente y me estoy empezando a cabrear', 'Te ha faltado el contexto', '¿Y la fuente?', 'Esa frase te puede traer problemas en Checoslovaquia', 'Algún día yo ya no estaré y me echaréis de menos, porque así es la vida',
+                '¿sabes lo que le falta a tu frase? **CONTEXTO** ajajajjaja'
                ];
     return rand[Math.floor(Math.random()*rand.length)];
 }
@@ -114,7 +115,8 @@ function frasespregunta() {
                 'SERÁS INSOLENTE, MALANDRÍN', 'Las cinco y media', 'Te responderé encantado cuando me salga de los cojones', 'Ante la duda, la mas tetuda',
                 '¿Y por qué me lo preguntas a mí? Yo no soy el dueño de Nintendo Majia.', 'Eso es correcto', 'pufff, ni idea =/', 
                 'Yo no lo sé pero a todo mal siempre puedes preguntarle a Morro, mas que un gato parece un Lince', 'Pregunta complicada, esto solo lo puedo resolver de una manera...',
-                '¿Siguiente pregunta?', '...', '¿Si? Pues me dejas de piedra',
+                '¿Siguiente pregunta?', '...', '¿Si? Pues me dejas de piedra', 'Te pasas la vida preguntandote gilipolleces pero nunca las cosas importantes de la vida',
+                'Un día te despertarás y pensarás, ¿por qué le hice una pregunta TAN estupida a Botas?'
                ];
 
     return rand[Math.floor(Math.random()*rand.length)];
