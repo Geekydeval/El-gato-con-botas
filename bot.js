@@ -94,7 +94,7 @@ function frasesgeneral() {
                 'Pachamelon es cortito, pero es noble y de buen corazón, no sean crueles con él', 'Solo lo conseguirán si el leak es real', 'Eso en Alemán significa "Vagina de Ballena"', 'Eso es fake news a la fuerza, malandrín', 'Me la estáis intentando colar, que pícaros',
                 'Te daría la razón pero es que no la tienes','Pero vamos a ver, ¿tu me ves a mi cara de gilipollas o que?', 'jaja te entiendo perfectamente xDD', 'Me siento tan identificado con lo que has dicho :sob:', 'Somos balleneros, llevamos arpones, mas como en la luna no hay ballenas cantamos canciones :musical_note:',
                 'Princesita de ojos verdes, me has robado el corazooooon :musical_note:', 'Ya me has cansado, te voy a robar las botas cuando menos te lo esperes', 'Me quito el sombrero, chapó', 'YO NO ESTOY TENSO, TÚ ESTÁS TENSO', 'Això es el casquet volador', 
-                'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 'Yo no digo que Vandal sea mala, no, pero Cristina puede irse a freir esparragos'
+                'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 'Yo no digo que Vandal sea mala, no, pero Cristina puede irse a freir esparragos',
                 'Nunca pones la fuente y me estoy empezando a cabrear', 'Te ha faltado el contexto', '¿Y la fuente?'
                ];
     return rand[Math.floor(Math.random()*rand.length)];
