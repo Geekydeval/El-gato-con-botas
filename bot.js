@@ -26,7 +26,7 @@ function frasesgeneral() {
                 'A veces me siento muy solo en el espacio digital', 'Aunque sea un bot tengo sentimientos', 'La vida es dificil', 'Entre tu y yo, soy la repera', 'Por favor, pide tu primer deseo',
                 'Eso tiene que ser mentira a la fuerza', 'Eres un fantasma', 'Insultame como solo tu sabes, cabronazo', 'es eso una insinuación sexual? :smirk:', 'Dios....', 'ay mi madre...',
                 'Viva el capitalismo, compra, vende y especula AAAAAAAJAJAJJAJAJA', 'Si me pongo chulo disculpa, tengo problemas con la actitud deribado de un accidente', '[CENSURED]#torna',
-                'Que rápido pasa el tiempo para un gato','Das vueltas sobre el mismo tema, cansino', 'joder, estás pesadito con el tema, eh?', 'Hannibal me la puede comer entera',
+                'Que rápido pasa el tiempo para un gato','Das vueltas sobre el mismo tema, cansino', 'joder, estás pesadito con el tema, eh?', 'Anibal me la puede comer entera',
                 'joder, estoy que me salgo hoy, no?', 'PIM PAM PUM', 'dale', 'toma ya!', 'Escucha....', 'Eso lo utilizo mucho en mis composiciones fotograficas',
                 'No quisiera alarmarte pero creo que hay un topo entre nosotros :thinking:', 'Estoy pensando en presentarme a las elecciones de mod', 'Soy tan poderoso que me temen',
                 'La limpieza personal es parte fundamental de un felino, aunque este sea digital como yo', 'A veces tengo dudas existenciales, es parte de mi programación', 'Te contaré un secreto...',
@@ -94,7 +94,8 @@ function frasesgeneral() {
                 'Pachamelon es cortito, pero es noble y de buen corazón, no sean crueles con él', 'Solo lo conseguirán si el leak es real', 'Eso en Alemán significa "Vagina de Ballena"', 'Eso es fake news a la fuerza, malandrín', 'Me la estáis intentando colar, que pícaros',
                 'Te daría la razón pero es que no la tienes','Pero vamos a ver, ¿tu me ves a mi cara de gilipollas o que?', 'jaja te entiendo perfectamente xDD', 'Me siento tan identificado con lo que has dicho :sob:', 'Somos balleneros, llevamos arpones, mas como en la luna no hay ballenas cantamos canciones :musical_note:',
                 'Princesita de ojos verdes, me has robado el corazooooon :musical_note:', 'Ya me has cansado, te voy a robar las botas cuando menos te lo esperes', 'Me quito el sombrero, chapó', 'YO NO ESTOY TENSO, TÚ ESTÁS TENSO', 'Això es el casquet volador', 
-                'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 
+                'No es un mal plan pero no me convence del todo', 'Mira, te cuento el último chascarrillo del server, eres subnormal', 'EXIJO ENLACE A ESO', 'Haber si la broza nos come de una puta vez', 'Yo no digo que Vandal sea mala, no, pero Cristina puede irse a freir esparragos'
+                'Nunca pones la fuente y me estoy empezando a cabrear', 'Te ha faltado el contexto', '¿Y la fuente?'
                ];
     return rand[Math.floor(Math.random()*rand.length)];
 }
