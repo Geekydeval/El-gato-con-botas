@@ -202,6 +202,8 @@ var saludos = ['buenos días', 'buenos dias', 'hola', 'buenas', 'a los buenos d�
 
 var despedidas = ['me marcho', 'adiós', 'que vaya bien', 'adiós, gatito', 'nos vemos', 'volveré luego', 'bye']
 
+var noche = ['Botas, póngame la canción Mi Gran Noche.']
+
 var afirmaciones = ['si', 'claro que si', 'por supuesto que si', 'sí', 'afirmativo', 'correcto']
 
 var negativas = ['no', 'claro que no', 'por supuesto que no', 'negativo', 'incorrecto']
@@ -255,6 +257,10 @@ client.on("message", (message) => {
 
   else if (message.content.match(new RegExp('^((?![a-zA-Z0-9])*)(' + sexo.join('|') + ')+((?![a-zA-Z0-9])*)$', 'gmi'))) {
     message.channel.send(fraseseroticas());
+  }
+  
+  else if (message.content.match(new RegExp(noche.join('|'), 'i'))) {
+    message.channel.send('https://cdn.discordapp.com/attachments/268884861832396800/557583983966289931/2019-03-19_16.19.24.png');
   }
 
   else {
